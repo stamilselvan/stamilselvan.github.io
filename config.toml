@@ -1,8 +1,7 @@
-baseURL = "http://localhost:1313/subdir"
+baseURL = "https://stamilselvan.github.io/"
 title = "Puppet"
 
 theme = "puppet"
-themesDir = "themes/"
 
 copyright = ""
 paginate = 3
