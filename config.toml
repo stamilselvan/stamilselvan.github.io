@@ -1,5 +1,5 @@
 baseURL = "https://stamilselvan.github.io/"
-title = "Puppet"
+title = "Bits and Stories"
 
 theme = "puppet"
 
@@ -15,7 +15,6 @@ enableEmoji = true
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
-disqusShortname = ""
 googleAnalytics = ""
 
 [outputs]
@@ -60,19 +59,6 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 50
-[[menu.main]]
-identifier = "github"
-name = "Github"
-url = "https://github.com/roninro/hugo-theme-puppet/"
-weight = 100
-
-
-[params]
-author = "Puppet"
-description = "A simple and clean theme for Hugo"
-keywords = "blog,developer,personal"
-img_home = "img/home-bg.jpg"
-img_404 = "img/404-bg.jpg"
 
 useFaviconGenerator = true
 
@@ -80,43 +66,18 @@ custom_js = []
 custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
 
 [params.sidebar]
-enable = true
+enable = false
 gravatarEmail = ""
 # Overwritten by your gravatar image if `gravatarEmail` is filled
-avatar = "img/home-bg.jpg"
 bio = "a personal website"
-
-[params.social]
-twitter = "johndoe"
-facebook = "johndoe"
-zhihu = "johndoe"
-weibo = "johndoe"
-github = "johndoe"
-gitlab = "johndoe"
-linkedin = "johndoe"
-rss = true
-[params.social.mastodon]
-weight = 56
-icon = "fab fa-mastodon"
-format = "https://mastodon.social/%v"
-id = "johndoe"
-url = ""
-
-[[params.friends]]
-name = "John Doe"
-url = "https://gohugo.io"
-
-[[params.friends]]
-name = "John Doe"
-url = "https://gohugo.io"
 
 # See https://giscus.app/
 [params.giscus]
 enable = true
-repo = "roninro/hugo-theme-puppet"
-repo_id = "R_kgDOHuvyhw"
-category = "General"
-category_id = "DIC_kwDOHuvyh84CQjDo"
+repo = "stamilselvan/stamilselvan.github.io"
+repo_id = "RR_kgDOKcGxBg"
+category = "Announcements"
+category_id = "DIC_kwDOKcGxBs4CaNxl"
 input_position = "top"
 theme = "light_tritanopia"
 lang = "en"
