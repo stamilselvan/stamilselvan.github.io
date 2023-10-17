@@ -3,7 +3,7 @@ title = "Bits and Stories"
 
 theme = "puppet"
 
-copyright = ""
+copyright = " "
 paginate = 3
 languageCode = "en"
 defaultContentLanguage = "en"
