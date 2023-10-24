@@ -45,20 +45,30 @@ name = "Home"
 url = "/"
 weight = -100
 [[menu.main]]
+identifier = "tech"
+name = "Tech"
+url = "/series/Tech/"
+weight = 10
+[[menu.main]]
+identifier = "finance"
+name = "Finance"
+url = "/series/Finance/"
+weight = 20
+[[menu.main]]
+identifier = "others"
+name = "Others"
+url = "/series/Others/"
+weight = 30
+[[menu.main]]
 identifier = "archive"
 name = "Archive"
 url = "/archive/"
-weight = 10
-[[menu.main]]
-identifier = "guide"
-name = "Guide"
-url = "/series/themes-guide/"
-weight = 20
+weight = 50
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 50
+weight = 60
 
 [params]
 custom_js = []
