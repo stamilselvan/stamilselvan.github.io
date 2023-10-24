@@ -1,6 +1,9 @@
+ @font-face {
+  font-family: Solway-Regular;
+  src: url(Sfonts/Solway/Solway-Regular.ttf);
+}
 
-h1 {
-  font-family: Verdana; 
-  background-color: beige !important;
+h1, h2, h3, body, div {
+  font-family: Solway-Regular; 
 }
 
