@@ -60,10 +60,10 @@ name = "About"
 url = "/about/"
 weight = 50
 
-useFaviconGenerator = true
-
+[params]
 custom_js = []
-custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
+custom_css = ["css/custom.css"] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
+useFaviconGenerator = true
 
 [params.sidebar]
 enable = false
@@ -81,3 +81,4 @@ category_id = "DIC_kwDOKcGxBs4CaNxl"
 input_position = "top"
 theme = "light_tritanopia"
 lang = "en"
+
