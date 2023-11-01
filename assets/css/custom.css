@@ -11,3 +11,17 @@ h1, h2, h3, body, div, span, p {
   font-family: "Solway" !important;
 }
 
+body {
+    line-height: 1.8;
+    font-size: 20px;
+}
+
+@media only screen and (min-width: 1200px) {
+  .col-lg-8  {
+    width: 100%;
+  }
+  .col-lg-offset-2 {
+    margin-left: 1%;
+  }
+}
+
