@@ -1,9 +1,13 @@
- @font-face {
-  font-family: Solway-Regular;
-  src: url(Sfonts/Solway/Solway-Regular.ttf);
+@font-face {
+    font-family: "Solway";
+    src: url("/fonts/Solway/Solway-Regular.woff2") format("woff2"),
+        url("/fonts/Solway/Solway-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 h1, h2, h3, body, div {
-  font-family: Solway-Regular; 
+  font-family: "Solway";
 }
 
