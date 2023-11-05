@@ -14,5 +14,7 @@ comment = true
 
 Your content here...
 {{< load-plotly >}}
-{{< plotly json="json.json" height="400px" >}}
-s
+{{< plotly json="StockCompare.json" height="700px" modebar="false">}}
+
+Download the excel [here](./Stock-Compare.xlsx "")
+contents
