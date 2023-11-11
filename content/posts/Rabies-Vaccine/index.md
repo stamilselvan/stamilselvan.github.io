@@ -8,7 +8,7 @@ header_img = ""
 toc = false
 tags = []
 categories = []
-series = []
+series = ["Others"]
 comment = true
 +++
 
