@@ -8,7 +8,7 @@ header_img = ""
 toc = false
 tags = []
 categories = []
-series = []
+series = ["finance"]
 comment = true
 +++
 
@@ -16,5 +16,5 @@ Your content here...
 {{< load-plotly >}}
 {{< plotly json="StockCompare.json" height="700px" modebar="false">}}
 
-Download the excel [here](./Stock-Compare.xlsx "")
+Download the excel [here](Stock-Compare.xlsx)
 contents
