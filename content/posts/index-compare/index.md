@@ -29,8 +29,9 @@ The following chart compares the S&P500, Berkshire Hathaway and Nasdaq100 index 
 {{< load-plotly >}}
 {{< plotly json="StockCompare.json" height="700px" modebar="false">}}
 
-Download the source excel [here](https://docs.google.com/spreadsheets/d/1sMtksaHFq1aCA8g-sdRfO35RzYHQ2CQ1/edit?usp=sharing&ouid=104770753270265639557&rtpof=true&sd=true)
+Download the excel [here](https://docs.google.com/spreadsheets/d/1sMtksaHFq1aCA8g-sdRfO35RzYHQ2CQ1/edit?usp=sharing&ouid=104770753270265639557&rtpof=true&sd=true).
 
+Sources:
 [Berkshire Hathaway Returns by Year](https://www.slickcharts.com/berkshire-hathaway/returns)  
 [S&P 500 Total Returns by Year](https://www.slickcharts.com/sp500/returns)  
 [Nasdaq Returns by Year](https://www.slickcharts.com/nasdaq100/returns)  
