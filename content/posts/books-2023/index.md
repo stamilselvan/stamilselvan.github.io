@@ -6,7 +6,7 @@ draft = false
 subtitle = ""
 header_img = ""
 toc = false
-tags = []
+tags = ["Books", "2023"]
 categories = []
 series = ["Others"]
 comment = true
@@ -14,6 +14,8 @@ comment = true
 
 
 List of book that I read and the youtube channels that I enjoyed in 2023, just as a mean to keep it recorded somewhere.  
+
+# Books
 
 ## 1. The Subtle Art of Not Giving a F\*ck (4*)
 People have only a limited amount of energy to spend. Spending energy to a stuff which is not worth, will drain the energy tank.  
@@ -134,3 +136,20 @@ That's the cognitive error!
 > In addition, the $100k fee is also avoided by not studying an MBA. 
 > $2.2M is the cost of missed opportunity here. 
   
+## 10. Zero to One (3.5*)
+Peter Thiel explains what is zero to one.
+In his view, bringing a brand-new product that NEVER existed is called 0 to 1.
+The incremental change that enhances the product is something that takes 1 to n.
+The PayPal that he has founded and sold was 0 to 1.
+That really brought a fresh new product and it beard the reward when he sold it.
+
+Another good thing about his idea is that moving away from competition by the means of disruptive innovations.
+Either bring a product from 0 to 1 OR make the incremental change **10x** better than the competitor.
+It is indeed a good read but scored low because I have different opinion on some of the stuffs discussed in the book, e.g.: The analysis of Outliers book.
+
+# Youtube Channels
+
+1. [Money Pechu](https://www.youtube.com/@MoneyPechu)
+2. [Patrick Boyle](https://www.youtube.com/@PBoyle)
+3. [ColdFusion](https://www.youtube.com/@ColdFusion)
+4. [ BobbyBroccoli ](https://www.youtube.com/@BobbyBroccoli)
