@@ -12,12 +12,12 @@ series = ["finance"]
 comment = true
 +++
 
-I was following the [Money Pechu](https://www.youtube.com/@MoneyPechu) youtube channel for some time, in which he suggests the stocks to buy or not to buy with his rationale.
-The guy Mr. Anand Srinivasan seems to be well versed in the market and looks like a disciplined investor. 
+I was following the [Money Pechu](https://www.youtube.com/@MoneyPechu) youtube channel for some time, in which the economist Mr. Anand Srinivasan suggests the stocks to buy (or not) with his rationale.
+The guy seems to be well versed in the market and looks like a disciplined investor. 
 He is investing since decades and ecourages everyone to invest. 
-His philosophy is everyone can get rich by following disciplied living.
+His philosophy is that everyone can get rich by following disciplied living.
 
-On the other hand Mr. Buffet told that more than the 90% of the fund managers don't even match the market. [Source](https://www.justetf.com/en/news/passive-investing/the-proof-that-active-managers-cannot-beat-the-market.html). 
+On the other hand, Mr. Buffet told that more than the 90% of the fund managers don't even match the market. [Source](https://www.justetf.com/en/news/passive-investing/the-proof-that-active-managers-cannot-beat-the-market.html). 
 As he is also kind of a fund manager suggesting stocks, I'm here attempting to evaluate the effectiveness of Mr. Anand Srinivasan suggestions.
 
 ## Evaluation Method
