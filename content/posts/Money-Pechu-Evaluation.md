@@ -17,8 +17,8 @@ The guy seems to be well versed in the market and looks like a disciplined inves
 He is investing since decades and ecourages everyone to invest. 
 His philosophy is that everyone can get rich by following disciplied living.
 
-On the other hand, Mr. Buffet told that more than the 90% of the fund managers don't even match the market. [Source](https://www.justetf.com/en/news/passive-investing/the-proof-that-active-managers-cannot-beat-the-market.html). 
-As he is also kind of a fund manager suggesting stocks, I'm here attempting to evaluate the effectiveness of Mr. Anand Srinivasan suggestions.
+On the other hand, Mr. Buffet told that more than the 90% of the fund managers don't even match the market - [source](https://www.justetf.com/en/news/passive-investing/the-proof-that-active-managers-cannot-beat-the-market.html). 
+As Mr. Srinivasan also kind of a fund manager suggesting stocks, I'm here attempting to evaluate the effectiveness of his suggestions.
 
 ## Evaluation Method
 1. I try to fetch all the suggestions he is proving beginning 2024-Jan-01.
