@@ -20,5 +20,3 @@ comment = true
 
 # Cricket
 1. https://eb.freehit.eu/
-1. https://me.webcric.com/
-1. https://live.smartcric.is/
