@@ -35,7 +35,7 @@ In an year, definitely there is not 365 buy/sell opportunities. If it is so, the
 Any video which reiterates previous things OR not adding any new info is a clutter. These clutters reduces the quality dramatically.
 
 Missing out few videos might also mean missing out buying opportunities or bearing losses due to missing out selling.
-Basically the videos mandates the viewers always in the toe of watching them, which I find unpleasent (as an invester view).
+Basically the videos mandates the viewers always in the toe of watching them, which I find it unpleasent (as an invester view).
 
 Imo, If there is nothing to say, it is better not to say anything!
 
@@ -44,10 +44,10 @@ A typical video duration is 10mins, of which 2mins are for the promotion at the 
 20% of the time is being spent on the promotion, which is too high imo.
 
 **Emotional Stimuli:**  
-Many video contains titles such as "Buy now OR you will regret forever".
+Many videos are titled such as "Buy now OR you will regret forever".
 These are purely emotional driven click baits. 
 May be that he wants to stress the importance, but the occurrence of such things are higher in the video.
 
 ### Suggestion
-Perhaps I want that Mr.Srinivasan maintains an [xl](https://docs.google.com/spreadsheets/d/1jQtehTzcSdOa0IfrXwWwOPZrzj7ZpHnpa00dIILTEVM/edit?usp=drive_link) like this and keep it open for public in addition to the videos.
-This would serve a better way of reflecting one's thought and easy for evaluating the decisions made in the past.
+Perhaps I want that Mr.Srinivasan maintains an [xl like this](https://docs.google.com/spreadsheets/d/1jQtehTzcSdOa0IfrXwWwOPZrzj7ZpHnpa00dIILTEVM/edit?usp=drive_link) and keep it open for public in addition to the videos.
+This would serve as a better way of reflecting one's thought and easy for evaluating the decisions made in the past.
