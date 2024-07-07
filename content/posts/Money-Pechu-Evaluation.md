@@ -26,7 +26,8 @@ As Mr. Srinivasan also kind of a fund manager suggesting stocks, I'm here attemp
 1. If the suggested stock grows at least 15.5% YoY after/within 3 years, the suggestion will be considered as successful. Failure otherwise.
 
 ## Progress Tracking and Outcome
-The analysis can be found [>>here<<](https://docs.google.com/spreadsheets/d/1jQtehTzcSdOa0IfrXwWwOPZrzj7ZpHnpa00dIILTEVM/edit?usp=drive_link). It will be updated on regular interval.
+The analysis can be found [>>here<<](https://docs.google.com/spreadsheets/d/1jQtehTzcSdOa0IfrXwWwOPZrzj7ZpHnpa00dIILTEVM/edit?usp=drive_link). 
+~~It will be updated on regular interval.~~ Stopeed tracking because of the following reasons.
 
 ### Critics
 **Frequency:**  
