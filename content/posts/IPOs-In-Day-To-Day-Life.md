@@ -13,9 +13,9 @@ comment = true
 +++
 
 Many people including Mr.Mohnish Pabrai suggests that to list all the products that are used in day to day life and look how many are listed in the stock market.
-The task was interesting, so here is my consumption list
+The task was interesting, so here is my consumption list:
 
-| Product   | Company  | IPO Year | 
+| Product   | Company  | IPO Year[^1] | 
 | --------- | -------- | -------- | 
 | Android | Alphabet Inc Class A | 2004 | 
 | Mobile  | Samsung Electronics | 1975 |
@@ -76,3 +76,4 @@ The task was interesting, so here is my consumption list
 | Booking.com | Booking Holdings Inc | 1999 |
 | Care Health Insurance | Religare Enterprises Ltd | 2007 |
 
+[^1]: The IPO year is retrieved from ChatGPT, so some deviations are expected.
