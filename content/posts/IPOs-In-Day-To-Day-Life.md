@@ -21,6 +21,7 @@ The task was interesting, so here is my consumption list
 | Mobile  | Samsung Electronics | 1975 |
 | Computer | Dell Technologies Inc | 1988 |
 | Computer | HP Inc | 1957 |
+| Computer | Lenovo Group Ltd | 1994 |
 | Mixer    | Panasonic Holdings Corp | 1971 |
 | Tablet  | Merck & Co., Inc | 1941 |
 | Sensodyne Paste | Haleon PLC | 2022 |
@@ -53,3 +54,25 @@ The task was interesting, so here is my consumption list
 | Pullover (Tom Smith) | IG Design Group PLC | 1996 |
 | Pressure Cooker | TTK Prestige Ltd | 1994 |
 | Candy | Nestle SA - ADR | 1873 |
+| Himalaya | Himalaya Food International Ltd | 1994 |
+| Tempo Hand Tissue | Essity AB (publ) Class B | 2017 |
+| Beko Washingmachine | Arçelik A.Ş. | 1986 |
+| Car (Skoda) | Volkswagen Group | 1961 |
+| Internet | Vodafone Group PLC | 1988 |
+| Internet | Deutsche Telekom AG | 1996 |
+| Deutsche Post | Deutsche Post AG | 2000 |
+| Bank | Commerzbank AG | 1940 |
+| Fan | Honeywell International Inc | 1906 |
+| Toilet (Allia) | Geberit ADR | 2004 |
+| Table (Aliud Pharma) | Stada Arzneimittel (STAGn) | 1997 |
+| Monitor (Flatron) | LG Electronics | 1988 |
+| Car Tyre | Goodyear Tire & Rubber Co | 1927 |
+| OS | Microsoft Corp | 1986 |
+| Whatsapp | Meta Platforms Inc | 2012 |
+| Money Transfer | Wise PLC | 2021 |
+| Airtel | Bharti Airtel Ltd | 2002 |
+| Banking | Axis Bank GDR | 1998 |
+| Sim | Jio Financial Services Ltd | 2023 |
+| Booking.com | Booking Holdings Inc | 1999 |
+| Care Health Insurance | Religare Enterprises Ltd | 2007 |
+
