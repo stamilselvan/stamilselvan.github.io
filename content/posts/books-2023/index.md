@@ -80,7 +80,7 @@ A very successful lawyer quits his job and goes for expedition in search of the 
 He meets a monk in Himalayan icy mountain and learns some techniques there. 
 The so called techniques are explained in detail
 
-1. Mind is the very fertile ground. Whatever is thrown grows there like a monster. If good vibes are the stuff constantly put into mind, it grows. The first step is to be aware of what is entering in mind (fertile ground). And then to make a fence, then have some security guards who allows only positive thoughts to enter in the field. 
+1. Mind is the very fertile ground. Whatever is thrown there grows like a monster. If good vibes are the stuff constantly put into mind, it grows. The first step is to be aware of what is entering in mind (fertile ground). And then to make a fence, then have some security guards who allows only positive thoughts to enter in the field. 
 2. Set a goal and you can move towards it. On avg, a person thinks about 60,000 thoughts per day. Write your goal in a paper. This gives the signal that you are prioritizing that one goal higher than other 59,999 goals.
 3. Practice continuously improvement
 4. Live with discipline. Have the habit of consistency. Any habit practiced for 21 days becomes part of the life.
