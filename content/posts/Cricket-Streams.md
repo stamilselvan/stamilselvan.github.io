@@ -12,8 +12,9 @@ series = ["Others"]
 comment = true
 +++
 
-# Documentaries
-1. https://watchdocumentaries.com
+# Documentaries/Movies
+1. Documentries: https://watchdocumentaries.com
+2. Movies: https://watchseries8.to/
 
 # Serials
 1. https://watchseries8.to/
