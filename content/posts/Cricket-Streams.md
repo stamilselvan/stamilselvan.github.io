@@ -12,11 +12,10 @@ series = ["Others"]
 comment = true
 +++
 
-# Documentaries/Movies
+# Documentaries
 1. Documentries: https://watchdocumentaries.com
-2. Movies: https://watchseries8.to/
 
-# Serials
+# Serials/Movies
 1. https://watchseries8.to/
 
 # Cricket
