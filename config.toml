@@ -71,8 +71,8 @@ url = "/about/"
 weight = 60
 
 [params]
-custom_js = []
-custom_css = ["css/custom.css"] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
+custom_js = ["js/jquery.tablesorter.min.js", "js/custom.js"] 
+custom_css = ["css/custom.css", "css/theme.default.min.css"] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
 useFaviconGenerator = true
 
 [params.sidebar]
