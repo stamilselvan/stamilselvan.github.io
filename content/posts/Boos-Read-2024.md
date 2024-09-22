@@ -90,3 +90,51 @@ It is fine, if no creative idea comes up. But it is very important to allocate t
 
 
 They provide a good framework for a better decision making. Looking forward to using it in day-to-day life.  
+
+## 3. Mindset - Changing The Way You think To Fulfil Your Potential <sub>In Progress<sub>
+This book has more critics than the actual positive contribution imo.
+Throughout the book,  I could see the sickness of attributing good things to the positive mindset and bad things to the negative mindset. 
+An event took place in the past, the outcome is negative, the event is tagged as fixed mindset. 
+Looking at the past and saying things is a no brainer. 
+A 10th grader can do that job even better.  
+
+Fixed mindset examples: Enron company which went bankrupt, Bobby Knight, Billy Beane  
+Growth mindset examples: Pete Sampras, Jackie Joyner Kersee, Michael Jordan 
+
+Take any random page, the sickness can be seen. 
+Imo it is fine to propagate something that is positive, but attributing it to that past event and claiming that “because person X had the growth mindset, he/she achieved it” is wrong. 
+There are plenty of other factors that lead to the success of the person, which might be more important.  
+
+One example from the book:  
+
+> When Benjamin Bloom studied his 120 world-class concert pianists, sculptors, swimmers, tennis players, mathematicians, and research neurologists, he found something fascinating. 
+> For most of them, their first teachers were incredibly warm and accepting.
+
+And the author goes on explaining things. 
+
+I’m very uncomfortable with such studies because of the following reasons:
+1. The sample size is very small, which leads to error prone results.
+2. There is no control group involved where any comparison shall be made.   
+    E.g: The researcher should have taken into consideration other world class people for whom the first teacher was not incredible such as Albert Einstein, etc.
+3. These kinds of results are not guaranteed to be repeatable.   
+    E.g: Take 2000 people, let 1000 people be allocated to a control group, to which only average teachers are sent. 
+	The remaining 1000 people are the experimental group, to which the incredibly warm teachers are sent only as their first teacher and later on average teachers sent. 
+	Fast forward 25 years, will there be a significant difference between the two groups? I guess not (strongly). 
+4. Or even the researcher is measuring just random stuff.
+
+I can also make such research statements. My holy statement is as follows “I have observed all the top 500 CEOs ever lived on the planet and found something fascinating. All wear black shoe and blue tie.”
+
+My statement and the researcher's statement are the same if you are a rational person.
+1. Both have small sample sizes.
+2. Both didn’t study the effect of not doing it the suggested way (no control group).
+3. Both results are likely not repeatable.
+4. Both measured random stuff.  
+
+I’m still better, because the researcher has spent much time and money to come up with that statement and it took only a minute for me.
+
+Another thing with the book is that the people discussed in the book are more American oriented. Baseball, Basketball, Tennis, etc. 
+It is not easy to grasp the context for me, because I’m not familiar with that field.
+
+Why 2 stars for the book and not 0 stars?  
+The main juice of that book (as I understand) is that human potential can be developed by training. 
+We don’t have to limit ourselves with something called inborn talent. This takeaway is very valuable imo.
