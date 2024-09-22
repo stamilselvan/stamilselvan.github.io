@@ -12,13 +12,13 @@ series = ["Finance"]
 comment = true
 +++
 
-## Goal:
+## Goal
 To find out which market is best for a dumb long term investor OR to a monkey investor who throws a stone at the wall and picks the stock on it.
 
-## Criteria:
+## Criteria
 Return of the stock in last 10 year period from today (2024-Sep-22).
 
-## Resource:
+## Resource
 https://www.tradingview.com/screener/ gives a good overview of the metrics.
 
 ## Results
@@ -98,7 +98,4 @@ The same analysis is performed on the other markets.
 ## Exceptions
 1. The companies which went bankrupt in the timeframe are not considered.
 2. There may be multiple listings of the same company in different stock exchanges. 
-   E.g: HDFC Bank Ltd is listed in BSE and NSE. Both are considered for evaluation.
-
-
-
+   E.g: HDFC Bank Ltd is listed in BSE and NSE. All are considered for evaluation.
