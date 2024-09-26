@@ -91,7 +91,7 @@ It is fine, if no creative idea comes up. But it is very important to allocate t
 
 They provide a good framework for a better decision making. Looking forward to using it in day-to-day life.  
 
-## 3. Mindset - Changing The Way You think To Fulfil Your Potential <sub>In Progress<sub>
+## 3. Mindset - Changing The Way You think To Fulfil Your Potential (2*)  <sub>26-Sep<sub>
 This book has more critics than the actual positive contribution imo.
 Throughout the book,  I could see the sickness of attributing good things to the positive mindset and bad things to the negative mindset. 
 An event took place in the past, the outcome is negative, the event is tagged as fixed mindset. 

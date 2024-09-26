@@ -1,5 +1,5 @@
 +++
-title = "Books Read 2023"
+title = "Books Read - 2023"
 date = 2024-01-22T16:36:05+01:00
 description = ""
 draft = false
