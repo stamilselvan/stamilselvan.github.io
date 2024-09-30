@@ -34,8 +34,8 @@ In 2014 => 1 USD = 5.89 Vaenezuela Bolivar
 In 2024 => 10 USD = 36804.3 Vaenezuela Bolivar  
 Growth = 36804.3 / 5.89 = 6248.61x  
 To achieve 6248.61x returns, the stock should gain 624761%  
-Number of companies that have >624761% are **5**  
-USD Adjusted ratio = CompaniesWith10xInUsd/TotalCompanies = 5/31 = **16.13%**  
+Number of companies that have >624761% in last 10 years are **5**  
+USD Adjusted ratio = CompaniesWith10xInUsd / TotalCompanies = 5 / 31 = **16.13%**  
 
   
 The source xl can be accessed [>>here<<](https://docs.google.com/spreadsheets/d/1K9sOeT2YmPD1xyGGME-wXWoFSib7eRqV-YezbYQKuBQ/edit?gid=0#gid=0)  
