@@ -138,3 +138,7 @@ It is not easy to grasp the context for me, because I’m not familiar with that
 Why 2 stars for the book and not 0 stars?  
 The main juice of that book (as I understand) is that human potential can be developed by training. 
 We don’t have to limit ourselves with something called inborn talent. This takeaway is very valuable imo.
+
+{{< details title="Notes:" >}}
+Completed on 26 Sep.
+{{< /details >}}
