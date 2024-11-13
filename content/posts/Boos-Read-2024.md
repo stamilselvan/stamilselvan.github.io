@@ -142,3 +142,55 @@ We don’t have to limit ourselves with something called inborn talent. This tak
 {{< details title="Notes:" >}}
 Completed on 26 Sep.
 {{< /details >}}
+
+## 4.Poor Charlie's Almanack (2.2*)  <sub>13-Nov<sub>
+Started reading it as Mr.Pabrai has recommended this book.
+It is a hard read for me. THe language, the content, everything was too high to grasp.
+The impression is that Mr.Munger was a very active person through his life, a learning machine, a strict father/teacher demanding stuff rather than requesting it.
+
+**Goods:**  
+He stresses about the importance of multidisciplinary curriculum in the universities. 
+The interplay of various forces will result in some consequence. 
+If a person only knows stuff from one discipline, he/she can’t really understand the whole picture.
+  
+Psychology is another field where people didn’t pay much attention to. 
+Indeed it should be taught at the elementary level, because this is mandatory to all.
+The following are my big takeaways:
+* `Always reverse` Seek for the opposite effect to evaluate a theory/decision.  
+* `Multi disciplinary` Learn from other departments.  
+* `Trustworthiness` The highest skill one should aim for.  
+
+
+**Critics:**  
+**Choice of language:**  
+The language used is very hard to understand. 
+There are places where a sentence spans 6 lines, for sure it is not for a small brainer like me.
+They make the book a poor reading. E.g: The following sentence from page 109
+> There's nothing I said then that I wouldn't repeat today.
+
+The double negation word makes the brain wander around. 
+It would be much easier for reading if it was something like this 
+> I'll repeat only what I said then.
+
+**No brainers:**  
+Page 156 explains about making a billion dollar company into a trillion dollar company.
+The example Mr.Munger used is Coca Cola company.
+Imo, it was a mature company when he made that comment.
+A 10th grader would do such calculations, no expertise is needed.  
+
+Page 351, he talks about having a check list would have prevented losses for McDonnell Douglas flight.
+But it is no brainer to look at the past and tell "please use my checklist". 
+Challenge would be to prevent future failures with good accuracy.
+
+{{< details title="Click here to expand notes:" >}}
+Worldly wisdom • Psychology - never taught properly • Interdisciplinary skills • 
+Navy captain method: One mistake and you are out of captaincy • 
+Reduce mistakes - avoid them - fix them faster• Take what you wish effect • 
+Don't fool yourself, you are the easiest to fool • 2nd order effect - 3rd order effect • 
+High ratio of near misses • Nail company - Jesus story • 
+Better approximately right than precisely wrong • 
+Safest way to get what you want is to deserve what you want • Lifelong learning • 
+National cash register • Psychology - eat carrot first then desert • 
+Human egg - one sperm gets in - it shuts off • Ounce of prevention is worth a pound of cure • 
+Endowment effect - lottery pick vs given. 
+{{< /details >}}
