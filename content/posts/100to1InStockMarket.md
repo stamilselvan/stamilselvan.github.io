@@ -22,3 +22,21 @@ comment = true
    * Dual purpose fund.
 4. **Reinvesting earnings at higher than avg rate of return on invested capital**
    * Maybe one can find it with enough knowledge. 
+
+## Quality of Earnings
+### Inputs
+Three identical companies ``A,B,C``  
+Capital: 100 million each  
+Earnings: ``20%`` before tax on the invested capital  
+Tax rate: ``50%``  
+All the three companies wish to expand to 200 million.  
+  
+``A``: Issues additional shares of 100M  
+``B``: Sells 8% long term bonds for 100M  
+``C``: Acquires 100M of additional facilities by lease financing with 10% interest  
+
+| Company   |  Earnings On Capital (%) after Tax | Earnings On Equity (%) after Tax | Explanation | 
+| --------  | -------- | ------ |  ------ |
+| ``A`` | 10 | 10 | 20% is the earnings, 50% tax on it. |
+| ``B`` | 10 | **16** | 20% of 200M = 40M; 40M - 8M interest = 32M; 50% tax on 32M = 16M = 16% of equity 100M |
+| ``C`` | 15 | 15 | Lease financing details do not end up in a balance sheet. 20% of 200M = 40M; 40M - 10M interest = 30M; 50% tax on 30M = 15M = 15% of equity/capital 100M |
