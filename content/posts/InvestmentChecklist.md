@@ -1,6 +1,6 @@
 +++
 title = "Investment Checklist"
-date = 2025-01-01T11:51:19+02:00
+date = 2025-01-03T11:51:19+01:00
 description = ""
 draft = false
 subtitle = ""
