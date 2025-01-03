@@ -21,6 +21,10 @@ The following questions maybe asked before buying a stock.
 0. Will it turn 10x in 10 years AND 100x in 20 years?
 0. Is the PE ratio single digit?
 0. Is the PE ratio lower than that of the market (S&P500 or Nasdaq100 or equivalent)?
+0. Sales growth?
+0. Profit margin?
+0. Ratio of sales to invested capital?
+0. Rate of return on invested capital AND equity?
 
 ## Subjective Questions
 1. Will this business/stock exist after 10/20 years from now?
