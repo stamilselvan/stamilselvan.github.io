@@ -20,8 +20,8 @@ comment = true
     * E.g: Discovery of oil field can make a stock soar. Again it is kind of luck to find it.
 3. Great leverage of capital structure in long periods of expanding business
    * Dual purpose fund.
-4. **Reinvesting earnings at higher than avg rate of return on invested capital**
-   * Maybe one can find it with enough knowledge. 
+4. **<mark>Reinvesting earnings at higher than avg rate of return on invested capital</mark>**
+   * Maybe `one` can find it with enough knowledge. 
 
 ## Quality of Earnings
 ### Inputs
@@ -50,3 +50,19 @@ Now the earnings will look like this:
 | ``B`` | 2.5 | **1** | 5% of 200M = 10M; 10M - 8M interest = 2M; 50% tax on 2M = 1M = 1% of equity 100M |
 | ``C`` | **5** | **0** | 5% of 200M = 10M; 10M - 10M interest = 0M; It earns 10M on the invested capital before tax. |
 
+## PE Ratio
+* Very important thing to look before invest.
+* High PE AND someone is still buying means that the earnings should grow faster than the current phase, which is usually hard.
+  
+## Quotes
+> Don't marry a man to reform him.
+
+> Those who by [the stock] on the price alone are that man's lawful prey.
+
+> It is a bad mistake NOT to barrow when it is profitable.
+
+> Nothing is worth anything unless someone wants it.
+
+> A problem well defined is half solved.
+
+> Every sell decision is a confession of a mistake.
