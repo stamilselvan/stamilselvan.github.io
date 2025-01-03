@@ -39,4 +39,14 @@ All the three companies wish to expand to 200 million.
 | --------  | -------- | ------ |  ------ |
 | ``A`` | 10 | 10 | 20% is the earnings, 50% tax on it. |
 | ``B`` | 10 | **16** | 20% of 200M = 40M; 40M - 8M interest = 32M; 50% tax on 32M = 16M = 16% of equity 100M |
-| ``C`` | 15 | 15 | Lease financing details do not end up in a balance sheet. 20% of 200M = 40M; 40M - 10M interest = 30M; 50% tax on 30M = 15M = 15% of equity/capital 100M |
+| ``C`` | 15 | 15 | Lease financing details do not end up in the balance sheet. 20% of 200M = 40M; 40M - 10M interest = 30M; 50% tax on 30M = 15M = 15% of equity/capital 100M |
+
+### On the negative side
+If the business turns bad that the companies can now earn only ``5%`` on the invested capital, naturally the company which barrowed money for interest hight than 5% would be in trouble.
+Now the earnings will look like this:
+| Company   |  Earnings On Capital (%) after Tax | Earnings On Equity (%) after Tax | Explanation | 
+| --------  | -------- | ------ |  ------ |
+| ``A`` | 2.5 | 2.5 | 5% is the earnings, 50% tax on it. |
+| ``B`` | 2.5 | **1** | 5% of 200M = 10M; 10M - 8M interest = 2M; 50% tax on 2M = 1M = 1% of equity 100M |
+| ``C`` | **5** | **0** | 5% of 200M = 10M; 10M - 10M interest = 0M; It earns 10M on the invested capital before tax. |
+
