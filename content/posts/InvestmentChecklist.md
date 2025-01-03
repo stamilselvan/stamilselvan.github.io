@@ -25,6 +25,6 @@ The following questions maybe asked before buying a stock.
 # Exit Questions
 1. Is the company producing consitently low return on equity AND Still deploying more money into the same business?
 2. Is the management turned bad?
-  1. Bad ethincs
+  1. Bad ethics
   2. Bad way of treating people
   3. Not admitting the mistakes
