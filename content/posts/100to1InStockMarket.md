@@ -21,7 +21,7 @@ comment = true
 3. Great leverage of capital structure in long periods of expanding business
    * Dual purpose fund.
 4. **<mark>Reinvesting earnings at higher than avg rate of return on invested capital</mark>**
-   * Maybe `one` can find it with enough knowledge. 
+   * Maybe one can find it with enough knowledge. 
 
 ## Quality of Earnings
 ### Inputs
