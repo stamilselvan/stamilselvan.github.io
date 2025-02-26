@@ -57,7 +57,7 @@ Now the earnings will look like this:
 ## Quotes
 > Don't marry a man to reform him.
 
-> Those who by [the stock] on the price alone are that man's lawful prey.
+> Those who buy [the stock] on the price alone are that man's lawful prey.
 
 > It is a bad mistake NOT to barrow when it is profitable.
 
