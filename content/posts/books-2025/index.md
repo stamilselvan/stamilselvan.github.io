@@ -57,7 +57,20 @@ The test will identify about 50 with disease (it is 95% accurate).
 </p>
 {{</ math.inline >}}
 
+> 1000 observations won't tell all swans are white - but observation of 1 black swan is enough to refute. 
+
 
 {{< details title="Click here to expand notes:" >}}
-Worldly wisdom • 
+Journalism is for entertainment, not for truth seeking • Look at observed and non-observed outcomes • 
+Decision makers think that the stuff happened to others won’t necessarily happen to them • 
+Insure against any death OR a terror attack - later will have more attention, ppl don’t want to insure against something abstract • 
+Amnestic patient - hand shake - poke with pin - refrain from handshake • 
+Each sample path converge to the long term properties • 
+If you think you can control emotions - you can control heart beat - hair growth • 
+No game plan ahead of time - what should be done in the event of loss? Buy/Sell/Hold? • 
+70% it goes up by 1%, 30% it goes down by 10% - Not only probability, but also the intensity matters • 
+90% options lose money doesn’t mean it is very bad - what happened to the rest 10% do matters • 
+Finding of absence and Absence of finding • 
+Non linearity - sand castle - last grain - castle collapse • 
+Emotion to Cognition connection is stronger than Cognition to emotion.
 {{< /details >}}
