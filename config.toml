@@ -74,6 +74,7 @@ weight = 60
 custom_js = ["js/jquery.tablesorter.min.js", "js/custom.js"] 
 custom_css = ["css/custom.css", "css/theme.default.min.css"] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
 useFaviconGenerator = true
+math = true
 
 [params.sidebar]
 enable = false
