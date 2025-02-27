@@ -10,7 +10,6 @@ tags = ["Books", "2025"]
 categories = []
 series = ["Others"]
 comment = true
-math = true 
 
 +++
 
