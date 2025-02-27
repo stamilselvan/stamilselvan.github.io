@@ -10,6 +10,8 @@ tags = ["Books", "2025"]
 categories = []
 series = ["Others"]
 comment = true
+math = true
+
 +++
 
 ## 1. 100 to 1 in the Stock Market (4.5*)  <sub>Jan<sub>
@@ -35,6 +37,25 @@ Let's say 50% of the fund managers vote for up and remaining for down.
 The next day only the winning fund managers are allowed to play. 
 After the 10th day, there will be about 10 managers who have predicted correctly 10 times in a row! 
 Will you be trusting him with your life savings?  
+
+Here is an interesting discussion from the book. 
+A test of a disease presents a rate of 5% false positives. 
+The disease strikes 1/1000 of the population. 
+People are tested at random. 
+A patient's test is positive. 
+What is the probability of the patient being stricken with the disease?  
+
+Most doctors answer `95%`  
+
+Answer:  
+Consider out of 1000 patients one is expected to be affected with the disease. 
+Remaining 999 are healthy. 
+The test will identify about 50 with disease (it is 95% accurate). 
+{{< math.inline >}}
+<p>
+\(Probablity = \dfrac{No.of. Afflicted}{No.of. True + false Positives} = \dfrac{1}{51} = 2\% \)
+</p>
+{{</ math.inline >}}
 
 
 {{< details title="Click here to expand notes:" >}}
